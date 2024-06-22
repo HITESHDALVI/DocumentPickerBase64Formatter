@@ -1,0 +1,1 @@
+# DocumentPickerBase64Formatter
